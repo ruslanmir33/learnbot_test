@@ -23,7 +23,7 @@ fin@ncetradehelpbot - это бот для Telegram созданный с цел
 
     API_KEY = "API ключ, который вы получили у BotFather."
 
-    USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:'].Смайлики.
+    USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:']
 
 Запуск
 ------
